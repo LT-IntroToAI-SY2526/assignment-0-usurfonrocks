@@ -10,7 +10,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-Git is a useful tool for easily tracking changes to your code, collaborating, and sharing. GitHub is 
+Git is a useful tool for easily tracking changes to your code, collaborating, and sharing. GitHub is a way to use the same power of Git all online with an easy-to-use interface.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
