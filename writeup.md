@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Youssef Ahmed Yahia
+**Date:** 8/19/2025
 
 ---
 
@@ -10,7 +10,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a useful tool for easily tracking changes to your code, collaborating, and sharing. GitHub is 
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
