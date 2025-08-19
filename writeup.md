@@ -18,8 +18,7 @@ Committing is sort of your layout of your messages and things you want to send f
 
 **3. What is a repository and what does it contain?**
 
-A repository is pretty much your assignment and its where you can access all of your work. 
----
+A repository is pretty much your assignment and its where you can access all of your work. You can also collaborate and work with other people as well as access their work.
 
 ## Profile Repository Link
 
