@@ -14,7 +14,7 @@ Git is a useful tool for easily tracking changes to your code, collaborating, an
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Committing is sort of your layout of your messages and things you want to send forwards and change. Pushing is the action of sending forward and changing your code. They are important 
+Committing is sort of your layout of your messages and things you want to send forwards and change. Pushing is the action of sending forward and changing your code. They are important because they are how you share your ideas and thoughts as well as make changes.
 
 **3. What is a repository and what does it contain?**
 
