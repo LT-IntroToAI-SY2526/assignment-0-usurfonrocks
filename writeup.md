@@ -24,7 +24,7 @@ A repository is pretty much your assignment and its where you can access all of 
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/LT-IntroToAI-SY2526/assignment-0-usurfonrocks
 
 ---
 
@@ -32,7 +32,7 @@ A repository is pretty much your assignment and its where you can access all of 
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I am excited to have a teacher guide me through all of the capabilities of AI. AI is used all over the world constantly nowadays and being more educated on the features and how it works will help me succeed because I want to possibly do someting relating to AI in the future.
 
 ---
 
