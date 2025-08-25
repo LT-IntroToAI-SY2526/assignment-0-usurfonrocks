@@ -24,7 +24,7 @@ A repository is pretty much your assignment and its where you can access all of 
 
 **Link to your GitHub profile repository:** 
 
-(https://github.com/usurfonrocks)
+(https://github.com/usurfonrocks/usurfonrocks)
 
 ---
 
